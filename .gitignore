@@ -25,3 +25,12 @@ fp-info-cache
 *.csv
 
 .DS_Store
+
+
+
+# LTspice ignores
+*.log
+*.raw
+*.fft
+*.net
+*.plt
